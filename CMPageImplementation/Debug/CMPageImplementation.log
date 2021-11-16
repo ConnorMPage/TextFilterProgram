@@ -1,0 +1,4 @@
+﻿  CMPageImplementation.cpp
+C:\Users\conno\OneDrive\Documents\University Work\Programming\CMPageImplementation\CMPageImplementation\CMPageImplementation.cpp(94,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\conno\OneDrive\Documents\University Work\Programming\CMPageImplementation\CMPageImplementation\CMPageImplementation.cpp(137,81): warning C4018: '<': signed/unsigned mismatch
+  CMPageImplementation.vcxproj -> C:\Users\conno\OneDrive\Documents\University Work\Programming\CMPageImplementation\Debug\CMPageImplementation.exe
